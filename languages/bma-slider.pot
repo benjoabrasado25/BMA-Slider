@@ -1,0 +1,2110 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BMA "
+"Slider v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-05-04 00:19+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: Codes and other
+#: materials/Lesson
+#: 24/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 25/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 26/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 28/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 29/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 30/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 31/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 32/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 33/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 34/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 35/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 37/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 38/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 39/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 40/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 41/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 42/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 43/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 44/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 45/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 46/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 48/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 49/mv-slider/views/mv-slider_metabox.php:11
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 50/mv-slider/views/mv-slider_metabox.php:11
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 51/mv-slider/views/mv-slider_metabox.php:11
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 52/mv-slider/views/mv-slider_metabox.php:11
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:44
+#: 53/mv-slider/views/mv-slider_metabox.php:11
+msgid "Link Text"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 24/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 25/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 26/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 28/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 29/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 30/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 31/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 32/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 33/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 34/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 35/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 37/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 38/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 39/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 40/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 41/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 42/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 43/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 44/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 45/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 46/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 48/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 49/mv-slider/views/mv-slider_metabox.php:26
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 50/mv-slider/views/mv-slider_metabox.php:26
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 51/mv-slider/views/mv-slider_metabox.php:26
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 52/mv-slider/views/mv-slider_metabox.php:26
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:45
+#: 53/mv-slider/views/mv-slider_metabox.php:26
+msgid "Link URL"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:19
+#: 50/mv-slider/class.mv-slider-settings.php:19
+#: 51/mv-slider/class.mv-slider-settings.php:19
+#: 52/mv-slider/class.mv-slider-settings.php:19
+#: 53/mv-slider/class.mv-slider-settings.php:19
+msgid "How does it work?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:26
+#: 50/mv-slider/class.mv-slider-settings.php:26
+#: 51/mv-slider/class.mv-slider-settings.php:26
+#: 52/mv-slider/class.mv-slider-settings.php:26
+#: 53/mv-slider/class.mv-slider-settings.php:26
+msgid ""
+"Other Plugin Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:33
+#: 50/mv-slider/class.mv-slider-settings.php:33
+#: 51/mv-slider/class.mv-slider-settings.php:33
+#: 52/mv-slider/class.mv-slider-settings.php:33
+#: 53/mv-slider/class.mv-slider-settings.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:41
+#: 50/mv-slider/class.mv-slider-settings.php:41
+#: 51/mv-slider/class.mv-slider-settings.php:41
+#: 52/mv-slider/class.mv-slider-settings.php:41
+#: 53/mv-slider/class.mv-slider-settings.php:41
+msgid "Slider Title"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:52
+#: 50/mv-slider/class.mv-slider-settings.php:52
+#: 51/mv-slider/class.mv-slider-settings.php:52
+#: 52/mv-slider/class.mv-slider-settings.php:52
+#: 53/mv-slider/class.mv-slider-settings.php:52
+msgid "Display Bullets"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:63
+#: 50/mv-slider/class.mv-slider-settings.php:63
+#: 51/mv-slider/class.mv-slider-settings.php:63
+#: 52/mv-slider/class.mv-slider-settings.php:63
+#: 53/mv-slider/class.mv-slider-settings.php:63
+msgid "Slider Style"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:80
+#: 50/mv-slider/class.mv-slider-settings.php:80
+#: 51/mv-slider/class.mv-slider-settings.php:80
+#: 52/mv-slider/class.mv-slider-settings.php:80
+#: 53/mv-slider/class.mv-slider-settings.php:80
+msgid ""
+"Use the shortcode "
+"[mv_slider] to display "
+"the slider in any page/"
+"post/widget"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:108
+#: 50/mv-slider/class.mv-slider-settings.php:108
+#: 51/mv-slider/class.mv-slider-settings.php:108
+#: 52/mv-slider/class.mv-slider-settings.php:108
+#: 53/mv-slider/class.mv-slider-settings.php:108
+msgid ""
+"Whether to display "
+"bullets or not"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:139
+#: 50/mv-slider/class.mv-slider-settings.php:139
+#: 51/mv-slider/class.mv-slider-settings.php:139
+#: 52/mv-slider/class.mv-slider-settings.php:139
+#: 53/mv-slider/class.mv-slider-settings.php:139
+msgid ""
+"The title field can not "
+"be left empty"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/class.mv-slider-settings.php:140
+#: 50/mv-slider/class.mv-slider-settings.php:140
+#: 51/mv-slider/class.mv-slider-settings.php:140
+#: 52/mv-slider/class.mv-slider-settings.php:140
+#: 53/mv-slider/class.mv-slider-settings.php:140
+msgid ""
+"Please, type some text"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/mv-slider.php:87
+#: 50/mv-slider/mv-slider.php:87
+#: 51/mv-slider/mv-slider.php:87
+#: 52/mv-slider/mv-slider.php:87
+#: 53/mv-slider/mv-slider.php:100
+msgid "MV Slider Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/mv-slider.php:97
+#: 49/mv-slider/mv-slider.php:98
+#: 50/mv-slider/mv-slider.php:97
+#: 50/mv-slider/mv-slider.php:98
+#: 51/mv-slider/mv-slider.php:97
+#: 51/mv-slider/mv-slider.php:98
+#: 52/mv-slider/mv-slider.php:97
+#: 52/mv-slider/mv-slider.php:98
+#: 53/mv-slider/mv-slider.php:110
+#: 53/mv-slider/mv-slider.php:111
+msgid "Manage Slides"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/mv-slider.php:107
+#: 49/mv-slider/mv-slider.php:108
+#: 50/mv-slider/mv-slider.php:107
+#: 50/mv-slider/mv-slider.php:108
+#: 51/mv-slider/mv-slider.php:107
+#: 51/mv-slider/mv-slider.php:108
+#: 52/mv-slider/mv-slider.php:107
+#: 52/mv-slider/mv-slider.php:108
+#: 53/mv-slider/mv-slider.php:120
+#: 53/mv-slider/mv-slider.php:121
+msgid "Add New Slide"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/mv-slider.php:123
+#: 50/mv-slider/mv-slider.php:123
+#: 51/mv-slider/mv-slider.php:123
+#: 52/mv-slider/mv-slider.php:123
+#: 53/mv-slider/mv-slider.php:136
+msgid "Settings Saved"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:18
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:22
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:18
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:22
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:18
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:22
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:18
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:22
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:18
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:22
+msgid "Slider"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:19
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:21
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:19
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:21
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:19
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:21
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:19
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:21
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:19
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:21
+msgid "Sliders"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:68
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:68
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:68
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:68
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:68
+msgid "Link Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/post-types/class.mv-slider-cpt.php:106
+#: 50/mv-slider/post-types/class.mv-slider-cpt.php:106
+#: 51/mv-slider/post-types/class.mv-slider-cpt.php:106
+#: 52/mv-slider/post-types/class.mv-slider-cpt.php:106
+#: 53/mv-slider/post-types/class.mv-slider-cpt.php:106
+msgid "Add some text"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/views/settings-page.php:7
+#: 50/mv-slider/views/settings-page.php:7
+#: 51/mv-slider/views/settings-page.php:7
+#: 52/mv-slider/views/settings-page.php:7
+#: 53/mv-slider/views/settings-page.php:7
+msgid "Main Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/views/settings-page.php:8
+#: 50/mv-slider/views/settings-page.php:8
+#: 51/mv-slider/views/settings-page.php:8
+#: 52/mv-slider/views/settings-page.php:8
+#: 53/mv-slider/views/settings-page.php:8
+msgid "Additional Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 49/mv-slider/views/settings-page.php:19
+#: 50/mv-slider/views/settings-page.php:19
+#: 51/mv-slider/views/settings-page.php:19
+#: 52/mv-slider/views/settings-page.php:19
+#: 53/mv-slider/views/settings-page.php:19
+msgid "Save Settings"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 55/mv-testimonials/post-types/class.mv-testimonials-cpt.php:13
+#: 55/mv-testimonials/post-types/class.mv-testimonials-cpt.php:17
+#: 56/mv-testimonials/post-types/class.mv-testimonials-cpt.php:17
+#: 56/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 59/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 59/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 60/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 60/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 61/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 61/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 62/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 62/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 63/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 63/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 64/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 64/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 65/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 65/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 66/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 66/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 67/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 67/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 68/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 68/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 69/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 69/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+#: 70/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 70/mv-testimonials/post-types/class.mv-testimonials-cpt.php:22
+msgid "Testimonial"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 55/mv-testimonials/post-types/class.mv-testimonials-cpt.php:14
+#: 55/mv-testimonials/post-types/class.mv-testimonials-cpt.php:16
+#: 56/mv-testimonials/post-types/class.mv-testimonials-cpt.php:18
+#: 56/mv-testimonials/post-types/class.mv-testimonials-cpt.php:20
+#: 59/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 59/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 60/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 60/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 61/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 61/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 62/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 62/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 63/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 63/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 64/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 64/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 65/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 65/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 66/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 66/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 67/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 67/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 68/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 68/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 69/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 69/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+#: 70/mv-testimonials/post-types/class.mv-testimonials-cpt.php:19
+#: 70/mv-testimonials/post-types/class.mv-testimonials-cpt.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 56/initial-code.php:4
+#: 56/mv-testimonials/views/mv-testimonials_metabox.php:4
+#: 59/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 60/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 61/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 62/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 63/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 64/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 65/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 66/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 67/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 68/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 69/mv-testimonials/views/mv-testimonials_metabox.php:10
+#: 70/mv-testimonials/views/mv-testimonials_metabox.php:10
+msgid "User occupation"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 56/initial-code.php:18
+#: 56/mv-testimonials/views/mv-testimonials_metabox.php:18
+#: 59/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 60/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 61/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 62/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 63/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 64/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 65/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 66/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 67/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 68/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 69/mv-testimonials/views/mv-testimonials_metabox.php:24
+#: 70/mv-testimonials/views/mv-testimonials_metabox.php:24
+msgid "User company"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 56/initial-code.php:32
+#: 56/mv-testimonials/views/mv-testimonials_metabox.php:32
+#: 59/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 60/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 61/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 62/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 63/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 64/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 65/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 66/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 67/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 68/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 69/mv-testimonials/views/mv-testimonials_metabox.php:38
+#: 70/mv-testimonials/views/mv-testimonials_metabox.php:38
+msgid "User URL"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 56/mv-testimonials/post-types/class.mv-testimonials-cpt.php:44
+#: 59/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 60/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 61/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 62/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 63/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 64/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 65/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 66/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 67/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 68/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 69/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+#: 70/mv-testimonials/post-types/class.mv-testimonials-cpt.php:45
+msgid ""
+"Testimonials Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 59/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 60/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 61/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 62/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 63/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 64/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 65/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 66/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 67/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 68/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 69/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+#: 70/mv-testimonials/widgets/class.mv-testimonials-widget.php:6
+msgid ""
+"Your most beloved "
+"testimonials"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 60/mv-testimonials/widgets/class.mv-testimonials-widget.php:32
+#: 61/mv-testimonials/widgets/class.mv-testimonials-widget.php:32
+#: 62/mv-testimonials/widgets/class.mv-testimonials-widget.php:32
+#: 63/mv-testimonials/widgets/class.mv-testimonials-widget.php:32
+#: 64/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 65/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 66/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 67/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 68/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 69/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 70/mv-testimonials/widgets/class.mv-testimonials-widget.php:46
+#: 82/initial-code.php:5
+#: 82/initial-code.php:38
+#: 82/mv-translations/views/mv-translations_shortcode.php:5
+#: 82/mv-translations/views/mv-translations_shortcode.php:38
+#: 83/mv-translations/views/mv-translations_shortcode.php:29
+#: 83/mv-translations/views/mv-translations_shortcode.php:62
+#: 84/mv-translations/views/mv-translations_shortcode.php:69
+#: 84/mv-translations/views/mv-translations_shortcode.php:102
+#: 85/mv-translations/views/mv-translations_shortcode.php:69
+#: 85/mv-translations/views/mv-translations_shortcode.php:102
+#: 86/mv-translations/views/mv-translations_shortcode.php:69
+#: 86/mv-translations/views/mv-translations_shortcode.php:108
+#: 87/mv-translations/views/mv-translations_shortcode.php:74
+#: 87/mv-translations/views/mv-translations_shortcode.php:113
+#: 88/mv-translations/views/mv-translations_shortcode.php:74
+#: 88/mv-translations/views/mv-translations_shortcode.php:113
+#: 89/mv-translations/views/mv-translations_shortcode.php:74
+#: 89/mv-translations/views/mv-translations_shortcode.php:131
+#: 90/mv-translations/views/mv-translations_shortcode.php:74
+#: 90/mv-translations/views/mv-translations_shortcode.php:132
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:89
+#: 91/mv-translations/views/mv-translations_shortcode.php:74
+#: 91/mv-translations/views/mv-translations_shortcode.php:132
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 92/mv-translations/views/mv-translations_shortcode.php:74
+#: 92/mv-translations/views/mv-translations_shortcode.php:132
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 93/mv-translations/views/mv-translations_shortcode.php:74
+#: 93/mv-translations/views/mv-translations_shortcode.php:132
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 94/mv-translations/views/mv-translations_shortcode.php:74
+#: 94/mv-translations/views/mv-translations_shortcode.php:132
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 95/mv-translations/views/mv-translations_shortcode.php:74
+#: 95/mv-translations/views/mv-translations_shortcode.php:132
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 96/mv-translations/views/mv-translations_shortcode.php:74
+#: 96/mv-translations/views/mv-translations_shortcode.php:132
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 97/mv-translations/views/mv-translations_shortcode.php:74
+#: 97/mv-translations/views/mv-translations_shortcode.php:132
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 98/mv-translations/views/mv-translations_shortcode.php:74
+#: 98/mv-translations/views/mv-translations_shortcode.php:132
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:90
+#: 99/mv-translations/views/mv-translations_shortcode.php:74
+#: 99/mv-translations/views/mv-translations_shortcode.php:132
+msgid "Title"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 60/mv-testimonials/widgets/class.mv-testimonials-widget.php:37
+#: 61/mv-testimonials/widgets/class.mv-testimonials-widget.php:37
+#: 62/mv-testimonials/widgets/class.mv-testimonials-widget.php:37
+#: 63/mv-testimonials/widgets/class.mv-testimonials-widget.php:37
+#: 64/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+#: 65/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+#: 66/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+#: 67/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+#: 68/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+#: 69/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+#: 70/mv-testimonials/widgets/class.mv-testimonials-widget.php:51
+msgid ""
+"Number of testimonials "
+"to show"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 60/mv-testimonials/widgets/class.mv-testimonials-widget.php:43
+#: 61/mv-testimonials/widgets/class.mv-testimonials-widget.php:43
+#: 62/mv-testimonials/widgets/class.mv-testimonials-widget.php:43
+#: 63/mv-testimonials/widgets/class.mv-testimonials-widget.php:43
+#: 64/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+#: 65/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+#: 66/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+#: 67/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+#: 68/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+#: 69/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+#: 70/mv-testimonials/widgets/class.mv-testimonials-widget.php:57
+msgid "Display user image?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 60/mv-testimonials/widgets/class.mv-testimonials-widget.php:48
+#: 61/mv-testimonials/widgets/class.mv-testimonials-widget.php:48
+#: 62/mv-testimonials/widgets/class.mv-testimonials-widget.php:48
+#: 63/mv-testimonials/widgets/class.mv-testimonials-widget.php:48
+#: 64/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+#: 65/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+#: 66/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+#: 67/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+#: 68/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+#: 69/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+#: 70/mv-testimonials/widgets/class.mv-testimonials-widget.php:62
+msgid "Display occupation?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 60/mv-testimonials/widgets/class.mv-testimonials-widget.php:53
+#: 61/mv-testimonials/widgets/class.mv-testimonials-widget.php:53
+#: 62/mv-testimonials/widgets/class.mv-testimonials-widget.php:53
+#: 63/mv-testimonials/widgets/class.mv-testimonials-widget.php:53
+#: 64/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+#: 65/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+#: 66/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+#: 67/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+#: 68/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+#: 69/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+#: 70/mv-testimonials/widgets/class.mv-testimonials-widget.php:67
+msgid "Display company?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 65/mv-testimonials/views/mv-testimonials_widget.php:48
+#: 66/mv-testimonials/views/mv-testimonials_widget.php:48
+#: 67/mv-testimonials/views/mv-testimonials_widget.php:48
+#: 68/mv-testimonials/views/mv-testimonials_widget.php:48
+#: 69/mv-testimonials/views/mv-testimonials_widget.php:48
+#: 70/mv-testimonials/views/mv-testimonials_widget.php:48
+msgid ""
+"Show More Testimonials"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 74/mv-translations/mv-translations.php:89
+#: 75/mv-translations/mv-translations.php:92
+#: 76/mv-translations/mv-translations.php:92
+#: 77/mv-translations/mv-translations.php:92
+#: 78/mv-translations/mv-translations.php:92
+#: 79/mv-translations/mv-translations.php:92
+#: 80/mv-translations/mv-translations.php:92
+#: 81/mv-translations/mv-translations.php:95
+#: 82/mv-translations/mv-translations.php:95
+#: 83/mv-translations/mv-translations.php:95
+#: 84/mv-translations/mv-translations.php:95
+#: 85/mv-translations/mv-translations.php:97
+#: 86/mv-translations/mv-translations.php:97
+#: 87/mv-translations/mv-translations.php:99
+#: 88/mv-translations/mv-translations.php:99
+#: 89/mv-translations/mv-translations.php:99
+#: 90/mv-translations/mv-translations.php:99
+#: 91/mv-translations/mv-translations.php:102
+#: 92/mv-translations/mv-translations.php:102
+#: 93/mv-translations/mv-translations.php:104
+#: 94/mv-translations/mv-translations.php:104
+#: 95/mv-translations/mv-translations.php:104
+#: 96/mv-translations/mv-translations.php:114
+#: 97/mv-translations/mv-translations.php:114
+#: 98/mv-translations/mv-translations.php:114
+#: 99/mv-translations/mv-translations.php:114
+msgid "Submit Translation"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 74/mv-translations/mv-translations.php:104
+#: 75/mv-translations/mv-translations.php:107
+#: 76/mv-translations/mv-translations.php:107
+#: 77/mv-translations/mv-translations.php:107
+#: 78/mv-translations/mv-translations.php:107
+#: 79/mv-translations/mv-translations.php:107
+#: 80/mv-translations/mv-translations.php:107
+#: 81/mv-translations/mv-translations.php:110
+#: 82/mv-translations/mv-translations.php:110
+#: 83/mv-translations/mv-translations.php:110
+#: 84/mv-translations/mv-translations.php:110
+#: 85/mv-translations/mv-translations.php:112
+#: 86/mv-translations/mv-translations.php:112
+#: 87/mv-translations/mv-translations.php:114
+#: 88/mv-translations/mv-translations.php:114
+#: 89/mv-translations/mv-translations.php:114
+#: 90/mv-translations/mv-translations.php:114
+#: 91/mv-translations/mv-translations.php:117
+#: 92/mv-translations/mv-translations.php:117
+#: 93/mv-translations/mv-translations.php:119
+#: 94/mv-translations/mv-translations.php:119
+#: 95/mv-translations/mv-translations.php:119
+#: 96/mv-translations/mv-translations.php:129
+#: 97/mv-translations/mv-translations.php:129
+#: 98/mv-translations/mv-translations.php:129
+#: 99/mv-translations/mv-translations.php:129
+msgid "Edit Translation"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 75/mv-translations/post-types/class.mv-translations-cpt.php:14
+#: 75/mv-translations/post-types/class.mv-translations-cpt.php:18
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:16
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:16
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:18
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:18
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:26
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:26
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:26
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:26
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:26
+msgid "Translation"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 75/mv-translations/post-types/class.mv-translations-cpt.php:15
+#: 75/mv-translations/post-types/class.mv-translations-cpt.php:17
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:17
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:17
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:21
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:19
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:21
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:20
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:22
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:25
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:25
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:25
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:25
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:23
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:25
+msgid "Translations"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 75/mv-translations/post-types/class.mv-translations-cpt.php:45
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:47
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:47
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:49
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:49
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:53
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:53
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:53
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:53
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:53
+msgid "Singers"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 75/mv-translations/post-types/class.mv-translations-cpt.php:46
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:48
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:48
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:50
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 82/initial-code.php:8
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 82/mv-translations/views/mv-translations_shortcode.php:8
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 83/mv-translations/views/mv-translations_shortcode.php:32
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 84/mv-translations/views/mv-translations_shortcode.php:72
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 85/mv-translations/views/mv-translations_shortcode.php:72
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 86/mv-translations/views/mv-translations_shortcode.php:72
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 87/mv-translations/views/mv-translations_shortcode.php:77
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 88/mv-translations/views/mv-translations_shortcode.php:77
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 89/mv-translations/views/mv-translations_shortcode.php:77
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 90/mv-translations/views/mv-translations_shortcode.php:77
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:92
+#: 91/mv-translations/views/mv-translations_shortcode.php:77
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 92/mv-translations/views/mv-translations_shortcode.php:77
+#: 93/initial-code.php:18
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 93/mv-translations/views/mv-translations_shortcode.php:77
+#: 93/mv-translations/views/templates/single-mv-translations.php:30
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:51
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 94/mv-translations/views/mv-translations_shortcode.php:77
+#: 94/mv-translations/views/templates/single-mv-translations.php:33
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:54
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 95/mv-translations/views/mv-translations_shortcode.php:77
+#: 95/mv-translations/views/templates/single-mv-translations.php:32
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:54
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 96/mv-translations/views/mv-translations_shortcode.php:77
+#: 96/mv-translations/views/templates/single-mv-translations.php:32
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:54
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 97/mv-translations/views/mv-translations_shortcode.php:77
+#: 97/mv-translations/views/templates/single-mv-translations.php:32
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:54
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 98/mv-translations/views/mv-translations_shortcode.php:77
+#: 98/mv-translations/views/templates/single-mv-translations.php:32
+#: 99/functions.php:49
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:54
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:93
+#: 99/mv-translations/views/mv-translations_shortcode.php:77
+msgid "Singer"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 76/initial-code.php:6
+#: 76/mv-translations/views/mv-translations_metabox.php:6
+#: 77/mv-translations/views/mv-translations_metabox.php:16
+#: 78/mv-translations/views/mv-translations_metabox.php:16
+#: 79/mv-translations/views/mv-translations_metabox.php:22
+#: 80/mv-translations/views/mv-translations_metabox.php:22
+#: 81/mv-translations/views/mv-translations_metabox.php:22
+#: 82/initial-code.php:16
+#: 82/mv-translations/views/mv-translations_metabox.php:22
+#: 82/mv-translations/views/mv-translations_shortcode.php:16
+#: 83/mv-translations/views/mv-translations_metabox.php:22
+#: 83/mv-translations/views/mv-translations_shortcode.php:40
+#: 84/mv-translations/views/mv-translations_metabox.php:22
+#: 84/mv-translations/views/mv-translations_shortcode.php:80
+#: 85/mv-translations/views/mv-translations_metabox.php:22
+#: 85/mv-translations/views/mv-translations_shortcode.php:80
+#: 86/mv-translations/views/mv-translations_metabox.php:22
+#: 86/mv-translations/views/mv-translations_shortcode.php:86
+#: 87/mv-translations/views/mv-translations_metabox.php:22
+#: 87/mv-translations/views/mv-translations_shortcode.php:91
+#: 88/mv-translations/views/mv-translations_metabox.php:22
+#: 88/mv-translations/views/mv-translations_shortcode.php:91
+#: 89/mv-translations/views/mv-translations_metabox.php:22
+#: 89/mv-translations/views/mv-translations_shortcode.php:91
+#: 90/mv-translations/views/mv-translations_metabox.php:22
+#: 90/mv-translations/views/mv-translations_shortcode.php:91
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 91/mv-translations/views/mv-translations_metabox.php:22
+#: 91/mv-translations/views/mv-translations_shortcode.php:91
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 92/mv-translations/views/mv-translations_metabox.php:22
+#: 92/mv-translations/views/mv-translations_shortcode.php:91
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 93/mv-translations/views/mv-translations_metabox.php:22
+#: 93/mv-translations/views/mv-translations_shortcode.php:91
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 94/mv-translations/views/mv-translations_metabox.php:22
+#: 94/mv-translations/views/mv-translations_shortcode.php:91
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 95/mv-translations/views/mv-translations_metabox.php:22
+#: 95/mv-translations/views/mv-translations_shortcode.php:91
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 96/mv-translations/views/mv-translations_metabox.php:22
+#: 96/mv-translations/views/mv-translations_shortcode.php:91
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 97/mv-translations/views/mv-translations_metabox.php:22
+#: 97/mv-translations/views/mv-translations_shortcode.php:91
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 98/mv-translations/views/mv-translations_metabox.php:22
+#: 98/mv-translations/views/mv-translations_shortcode.php:91
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:103
+#: 99/mv-translations/views/mv-translations_metabox.php:22
+#: 99/mv-translations/views/mv-translations_shortcode.php:91
+msgid ""
+"Has transliteration?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 76/initial-code.php:10
+#: 76/mv-translations/views/mv-translations_metabox.php:10
+#: 77/mv-translations/views/mv-translations_metabox.php:20
+#: 78/mv-translations/views/mv-translations_metabox.php:20
+#: 79/mv-translations/views/mv-translations_metabox.php:26
+#: 80/mv-translations/views/mv-translations_metabox.php:26
+#: 81/mv-translations/views/mv-translations_metabox.php:26
+#: 82/initial-code.php:18
+#: 82/mv-translations/views/mv-translations_metabox.php:26
+#: 82/mv-translations/views/mv-translations_shortcode.php:18
+#: 83/mv-translations/views/mv-translations_metabox.php:26
+#: 83/mv-translations/views/mv-translations_shortcode.php:42
+#: 84/mv-translations/views/mv-translations_metabox.php:26
+#: 84/mv-translations/views/mv-translations_shortcode.php:82
+#: 85/mv-translations/views/mv-translations_metabox.php:26
+#: 85/mv-translations/views/mv-translations_shortcode.php:82
+#: 86/mv-translations/views/mv-translations_metabox.php:26
+#: 86/mv-translations/views/mv-translations_shortcode.php:88
+#: 87/mv-translations/views/mv-translations_metabox.php:26
+#: 87/mv-translations/views/mv-translations_shortcode.php:93
+#: 88/mv-translations/views/mv-translations_metabox.php:26
+#: 88/mv-translations/views/mv-translations_shortcode.php:93
+#: 89/mv-translations/views/mv-translations_metabox.php:26
+#: 89/mv-translations/views/mv-translations_shortcode.php:93
+#: 90/mv-translations/views/mv-translations_metabox.php:26
+#: 90/mv-translations/views/mv-translations_shortcode.php:93
+#: 90/mv-translations/views/mv-translations_shortcode.php:144
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 91/mv-translations/views/mv-translations_metabox.php:26
+#: 91/mv-translations/views/mv-translations_shortcode.php:93
+#: 91/mv-translations/views/mv-translations_shortcode.php:144
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 92/mv-translations/views/mv-translations_metabox.php:26
+#: 92/mv-translations/views/mv-translations_shortcode.php:93
+#: 92/mv-translations/views/mv-translations_shortcode.php:144
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 93/mv-translations/views/mv-translations_metabox.php:26
+#: 93/mv-translations/views/mv-translations_shortcode.php:93
+#: 93/mv-translations/views/mv-translations_shortcode.php:144
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 94/mv-translations/views/mv-translations_metabox.php:26
+#: 94/mv-translations/views/mv-translations_shortcode.php:93
+#: 94/mv-translations/views/mv-translations_shortcode.php:144
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 95/mv-translations/views/mv-translations_metabox.php:26
+#: 95/mv-translations/views/mv-translations_shortcode.php:93
+#: 95/mv-translations/views/mv-translations_shortcode.php:144
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 96/mv-translations/views/mv-translations_metabox.php:26
+#: 96/mv-translations/views/mv-translations_shortcode.php:93
+#: 96/mv-translations/views/mv-translations_shortcode.php:144
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 97/mv-translations/views/mv-translations_metabox.php:26
+#: 97/mv-translations/views/mv-translations_shortcode.php:93
+#: 97/mv-translations/views/mv-translations_shortcode.php:144
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 98/mv-translations/views/mv-translations_metabox.php:26
+#: 98/mv-translations/views/mv-translations_shortcode.php:93
+#: 98/mv-translations/views/mv-translations_shortcode.php:144
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:105
+#: 99/mv-translations/views/mv-translations_metabox.php:26
+#: 99/mv-translations/views/mv-translations_shortcode.php:93
+#: 99/mv-translations/views/mv-translations_shortcode.php:144
+msgid "Yes"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 76/initial-code.php:11
+#: 76/mv-translations/views/mv-translations_metabox.php:11
+#: 77/mv-translations/views/mv-translations_metabox.php:21
+#: 78/mv-translations/views/mv-translations_metabox.php:21
+#: 79/mv-translations/views/mv-translations_metabox.php:27
+#: 80/mv-translations/views/mv-translations_metabox.php:27
+#: 81/mv-translations/views/mv-translations_metabox.php:27
+#: 82/initial-code.php:19
+#: 82/mv-translations/views/mv-translations_metabox.php:27
+#: 82/mv-translations/views/mv-translations_shortcode.php:19
+#: 83/mv-translations/views/mv-translations_metabox.php:27
+#: 83/mv-translations/views/mv-translations_shortcode.php:43
+#: 84/mv-translations/views/mv-translations_metabox.php:27
+#: 84/mv-translations/views/mv-translations_shortcode.php:83
+#: 85/mv-translations/views/mv-translations_metabox.php:27
+#: 85/mv-translations/views/mv-translations_shortcode.php:83
+#: 86/mv-translations/views/mv-translations_metabox.php:27
+#: 86/mv-translations/views/mv-translations_shortcode.php:89
+#: 87/mv-translations/views/mv-translations_metabox.php:27
+#: 87/mv-translations/views/mv-translations_shortcode.php:94
+#: 88/mv-translations/views/mv-translations_metabox.php:27
+#: 88/mv-translations/views/mv-translations_shortcode.php:94
+#: 89/mv-translations/views/mv-translations_metabox.php:27
+#: 89/mv-translations/views/mv-translations_shortcode.php:94
+#: 90/mv-translations/views/mv-translations_metabox.php:27
+#: 90/mv-translations/views/mv-translations_shortcode.php:94
+#: 90/mv-translations/views/mv-translations_shortcode.php:144
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:109
+#: 91/mv-translations/views/mv-translations_metabox.php:27
+#: 91/mv-translations/views/mv-translations_shortcode.php:94
+#: 91/mv-translations/views/mv-translations_shortcode.php:144
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 92/mv-translations/views/mv-translations_metabox.php:27
+#: 92/mv-translations/views/mv-translations_shortcode.php:94
+#: 92/mv-translations/views/mv-translations_shortcode.php:144
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 93/mv-translations/views/mv-translations_metabox.php:27
+#: 93/mv-translations/views/mv-translations_shortcode.php:94
+#: 93/mv-translations/views/mv-translations_shortcode.php:144
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 94/mv-translations/views/mv-translations_metabox.php:27
+#: 94/mv-translations/views/mv-translations_shortcode.php:94
+#: 94/mv-translations/views/mv-translations_shortcode.php:144
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 95/mv-translations/views/mv-translations_metabox.php:27
+#: 95/mv-translations/views/mv-translations_shortcode.php:94
+#: 95/mv-translations/views/mv-translations_shortcode.php:144
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 96/mv-translations/views/mv-translations_metabox.php:27
+#: 96/mv-translations/views/mv-translations_shortcode.php:94
+#: 96/mv-translations/views/mv-translations_shortcode.php:144
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 97/mv-translations/views/mv-translations_metabox.php:27
+#: 97/mv-translations/views/mv-translations_shortcode.php:94
+#: 97/mv-translations/views/mv-translations_shortcode.php:144
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 98/mv-translations/views/mv-translations_metabox.php:27
+#: 98/mv-translations/views/mv-translations_shortcode.php:94
+#: 98/mv-translations/views/mv-translations_shortcode.php:144
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:106
+#: 99/mv-translations/views/mv-translations_metabox.php:27
+#: 99/mv-translations/views/mv-translations_shortcode.php:94
+#: 99/mv-translations/views/mv-translations_shortcode.php:144
+msgid "No"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 76/initial-code.php:17
+#: 76/mv-translations/views/mv-translations_metabox.php:17
+#: 77/mv-translations/views/mv-translations_metabox.php:27
+#: 78/mv-translations/views/mv-translations_metabox.php:27
+#: 79/mv-translations/views/mv-translations_metabox.php:33
+#: 80/mv-translations/views/mv-translations_metabox.php:33
+#: 81/mv-translations/views/mv-translations_metabox.php:33
+#: 82/initial-code.php:21
+#: 82/mv-translations/views/mv-translations_metabox.php:33
+#: 82/mv-translations/views/mv-translations_shortcode.php:21
+#: 83/mv-translations/views/mv-translations_metabox.php:33
+#: 83/mv-translations/views/mv-translations_shortcode.php:45
+#: 84/mv-translations/views/mv-translations_metabox.php:33
+#: 84/mv-translations/views/mv-translations_shortcode.php:85
+#: 85/mv-translations/views/mv-translations_metabox.php:33
+#: 85/mv-translations/views/mv-translations_shortcode.php:85
+#: 86/mv-translations/views/mv-translations_metabox.php:33
+#: 86/mv-translations/views/mv-translations_shortcode.php:91
+#: 87/mv-translations/views/mv-translations_metabox.php:33
+#: 87/mv-translations/views/mv-translations_shortcode.php:96
+#: 88/mv-translations/views/mv-translations_metabox.php:33
+#: 88/mv-translations/views/mv-translations_shortcode.php:96
+#: 89/mv-translations/views/mv-translations_metabox.php:33
+#: 89/mv-translations/views/mv-translations_shortcode.php:96
+#: 90/mv-translations/views/mv-translations_metabox.php:33
+#: 90/mv-translations/views/mv-translations_shortcode.php:96
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:111
+#: 91/mv-translations/views/mv-translations_metabox.php:33
+#: 91/mv-translations/views/mv-translations_shortcode.php:96
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 92/mv-translations/views/mv-translations_metabox.php:33
+#: 92/mv-translations/views/mv-translations_shortcode.php:96
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 93/mv-translations/views/mv-translations_metabox.php:33
+#: 93/mv-translations/views/mv-translations_shortcode.php:96
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 94/mv-translations/views/mv-translations_metabox.php:33
+#: 94/mv-translations/views/mv-translations_shortcode.php:96
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 95/mv-translations/views/mv-translations_metabox.php:33
+#: 95/mv-translations/views/mv-translations_shortcode.php:96
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 96/mv-translations/views/mv-translations_metabox.php:33
+#: 96/mv-translations/views/mv-translations_shortcode.php:96
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 97/mv-translations/views/mv-translations_metabox.php:33
+#: 97/mv-translations/views/mv-translations_shortcode.php:96
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 98/mv-translations/views/mv-translations_metabox.php:33
+#: 98/mv-translations/views/mv-translations_shortcode.php:96
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:108
+#: 99/mv-translations/views/mv-translations_metabox.php:33
+#: 99/mv-translations/views/mv-translations_shortcode.php:96
+msgid "Video URL"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 76/mv-translations/post-types/class.mv-translations-cpt.php:66
+#: 77/mv-translations/post-types/class.mv-translations-cpt.php:66
+#: 78/mv-translations/post-types/class.mv-translations-cpt.php:68
+#: 79/mv-translations/post-types/class.mv-translations-cpt.php:68
+#: 80/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 81/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 82/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 83/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 84/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 85/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 86/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 87/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 88/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 89/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 90/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 91/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 92/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 93/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 94/mv-translations/post-types/class.mv-translations-cpt.php:69
+#: 95/mv-translations/post-types/class.mv-translations-cpt.php:78
+#: 96/mv-translations/post-types/class.mv-translations-cpt.php:78
+#: 97/mv-translations/post-types/class.mv-translations-cpt.php:78
+#: 98/mv-translations/post-types/class.mv-translations-cpt.php:78
+#: 99/mv-translations/post-types/class.mv-translations-cpt.php:78
+msgid ""
+"Translations Options"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:3
+#: 82/mv-translations/views/mv-translations_shortcode.php:3
+#: 83/mv-translations/views/mv-translations_shortcode.php:27
+#: 84/mv-translations/views/mv-translations_shortcode.php:55
+#: 85/mv-translations/views/mv-translations_shortcode.php:55
+#: 86/mv-translations/views/mv-translations_shortcode.php:55
+#: 87/mv-translations/views/mv-translations_shortcode.php:60
+#: 88/mv-translations/views/mv-translations_shortcode.php:60
+#: 89/mv-translations/views/mv-translations_shortcode.php:60
+#: 90/mv-translations/views/mv-translations_shortcode.php:60
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:75
+#: 91/mv-translations/views/mv-translations_shortcode.php:60
+#: 92/mv-translations/views/mv-translations_shortcode.php:60
+#: 93/mv-translations/views/mv-translations_shortcode.php:60
+#: 94/mv-translations/views/mv-translations_shortcode.php:60
+#: 95/mv-translations/views/mv-translations_shortcode.php:60
+#: 96/mv-translations/views/mv-translations_shortcode.php:60
+#: 97/mv-translations/views/mv-translations_shortcode.php:60
+#: 98/mv-translations/views/mv-translations_shortcode.php:60
+#: 99/mv-translations/views/mv-translations_shortcode.php:60
+msgid ""
+"Submit new translation"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:29
+#: 82/mv-translations/views/mv-translations_shortcode.php:29
+#: 83/mv-translations/views/mv-translations_shortcode.php:53
+#: 84/mv-translations/views/mv-translations_shortcode.php:93
+#: 85/mv-translations/views/mv-translations_shortcode.php:93
+#: 86/mv-translations/views/mv-translations_shortcode.php:99
+#: 87/mv-translations/views/mv-translations_shortcode.php:104
+#: 88/mv-translations/views/mv-translations_shortcode.php:104
+#: 89/mv-translations/views/mv-translations_shortcode.php:104
+#: 90/mv-translations/views/mv-translations_shortcode.php:104
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 91/mv-translations/views/mv-translations_shortcode.php:104
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 92/mv-translations/views/mv-translations_shortcode.php:104
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 93/mv-translations/views/mv-translations_shortcode.php:104
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 94/mv-translations/views/mv-translations_shortcode.php:104
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 95/mv-translations/views/mv-translations_shortcode.php:104
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 96/mv-translations/views/mv-translations_shortcode.php:104
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 97/mv-translations/views/mv-translations_shortcode.php:104
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 98/mv-translations/views/mv-translations_shortcode.php:104
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:116
+#: 99/mv-translations/views/mv-translations_shortcode.php:104
+msgid "Submit"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:34
+#: 82/mv-translations/views/mv-translations_shortcode.php:34
+#: 83/mv-translations/views/mv-translations_shortcode.php:58
+#: 84/mv-translations/views/mv-translations_shortcode.php:98
+#: 85/mv-translations/views/mv-translations_shortcode.php:98
+#: 86/mv-translations/views/mv-translations_shortcode.php:104
+#: 87/mv-translations/views/mv-translations_shortcode.php:109
+#: 88/mv-translations/views/mv-translations_shortcode.php:109
+#: 89/mv-translations/views/mv-translations_shortcode.php:127
+#: 90/mv-translations/views/mv-translations_shortcode.php:128
+#: 91/mv-translations/views/mv-translations_shortcode.php:128
+#: 92/mv-translations/views/mv-translations_shortcode.php:128
+#: 93/mv-translations/views/mv-translations_shortcode.php:128
+#: 94/mv-translations/views/mv-translations_shortcode.php:128
+#: 95/mv-translations/views/mv-translations_shortcode.php:128
+#: 96/mv-translations/views/mv-translations_shortcode.php:128
+#: 97/mv-translations/views/mv-translations_shortcode.php:128
+#: 98/mv-translations/views/mv-translations_shortcode.php:128
+#: 99/mv-translations/views/mv-translations_shortcode.php:128
+msgid "Your Translations"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:37
+#: 82/mv-translations/views/mv-translations_shortcode.php:37
+#: 83/mv-translations/views/mv-translations_shortcode.php:61
+#: 84/mv-translations/views/mv-translations_shortcode.php:101
+#: 85/mv-translations/views/mv-translations_shortcode.php:101
+#: 86/mv-translations/views/mv-translations_shortcode.php:107
+#: 87/mv-translations/views/mv-translations_shortcode.php:112
+#: 88/mv-translations/views/mv-translations_shortcode.php:112
+#: 89/mv-translations/views/mv-translations_shortcode.php:130
+#: 90/mv-translations/views/mv-translations_shortcode.php:131
+#: 91/mv-translations/views/mv-translations_shortcode.php:131
+#: 92/mv-translations/views/mv-translations_shortcode.php:131
+#: 93/mv-translations/views/mv-translations_shortcode.php:131
+#: 94/mv-translations/views/mv-translations_shortcode.php:131
+#: 95/mv-translations/views/mv-translations_shortcode.php:131
+#: 96/mv-translations/views/mv-translations_shortcode.php:131
+#: 97/mv-translations/views/mv-translations_shortcode.php:131
+#: 98/mv-translations/views/mv-translations_shortcode.php:131
+#: 99/mv-translations/views/mv-translations_shortcode.php:131
+msgid "Date"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:39
+#: 82/mv-translations/views/mv-translations_shortcode.php:39
+#: 83/mv-translations/views/mv-translations_shortcode.php:63
+#: 84/mv-translations/views/mv-translations_shortcode.php:103
+#: 85/mv-translations/views/mv-translations_shortcode.php:103
+#: 86/mv-translations/views/mv-translations_shortcode.php:109
+#: 87/mv-translations/views/mv-translations_shortcode.php:114
+#: 88/mv-translations/views/mv-translations_shortcode.php:114
+#: 89/mv-translations/views/mv-translations_shortcode.php:132
+#: 90/mv-translations/views/mv-translations_shortcode.php:133
+#: 91/mv-translations/views/mv-translations_shortcode.php:133
+#: 92/mv-translations/views/mv-translations_shortcode.php:133
+#: 93/mv-translations/views/mv-translations_shortcode.php:133
+#: 94/mv-translations/views/mv-translations_shortcode.php:133
+#: 95/mv-translations/views/mv-translations_shortcode.php:133
+#: 96/mv-translations/views/mv-translations_shortcode.php:133
+#: 97/mv-translations/views/mv-translations_shortcode.php:133
+#: 98/mv-translations/views/mv-translations_shortcode.php:133
+#: 99/mv-translations/views/mv-translations_shortcode.php:133
+msgid "Transliteration"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:40
+#: 82/mv-translations/views/mv-translations_shortcode.php:40
+#: 83/mv-translations/views/mv-translations_shortcode.php:64
+#: 84/mv-translations/views/mv-translations_shortcode.php:104
+#: 85/mv-translations/views/mv-translations_shortcode.php:104
+#: 86/mv-translations/views/mv-translations_shortcode.php:110
+#: 87/mv-translations/views/mv-translations_shortcode.php:115
+#: 88/mv-translations/views/mv-translations_shortcode.php:115
+#: 89/mv-translations/views/mv-translations_shortcode.php:133
+#: 90/mv-translations/views/mv-translations_shortcode.php:134
+#: 91/mv-translations/views/mv-translations_shortcode.php:134
+#: 92/mv-translations/views/mv-translations_shortcode.php:134
+#: 93/mv-translations/views/mv-translations_shortcode.php:134
+#: 94/mv-translations/views/mv-translations_shortcode.php:134
+#: 95/mv-translations/views/mv-translations_shortcode.php:134
+#: 96/mv-translations/views/mv-translations_shortcode.php:134
+#: 97/mv-translations/views/mv-translations_shortcode.php:134
+#: 98/mv-translations/views/mv-translations_shortcode.php:134
+#: 99/mv-translations/views/mv-translations_shortcode.php:134
+msgid "Edit?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:41
+#: 82/mv-translations/views/mv-translations_shortcode.php:41
+#: 83/mv-translations/views/mv-translations_shortcode.php:65
+#: 84/mv-translations/views/mv-translations_shortcode.php:105
+#: 85/mv-translations/views/mv-translations_shortcode.php:105
+#: 86/mv-translations/views/mv-translations_shortcode.php:111
+#: 87/mv-translations/views/mv-translations_shortcode.php:116
+#: 88/mv-translations/views/mv-translations_shortcode.php:116
+#: 89/mv-translations/views/mv-translations_shortcode.php:134
+#: 90/mv-translations/views/mv-translations_shortcode.php:135
+#: 91/mv-translations/views/mv-translations_shortcode.php:135
+#: 92/mv-translations/views/mv-translations_shortcode.php:135
+#: 93/mv-translations/views/mv-translations_shortcode.php:135
+#: 94/mv-translations/views/mv-translations_shortcode.php:135
+#: 95/mv-translations/views/mv-translations_shortcode.php:135
+#: 96/mv-translations/views/mv-translations_shortcode.php:135
+#: 97/mv-translations/views/mv-translations_shortcode.php:135
+#: 98/mv-translations/views/mv-translations_shortcode.php:135
+#: 99/mv-translations/views/mv-translations_shortcode.php:135
+msgid "Delete?"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 82/initial-code.php:42
+#: 82/mv-translations/views/mv-translations_shortcode.php:42
+#: 83/mv-translations/views/mv-translations_shortcode.php:66
+#: 84/mv-translations/views/mv-translations_shortcode.php:106
+#: 85/mv-translations/views/mv-translations_shortcode.php:106
+#: 86/mv-translations/views/mv-translations_shortcode.php:112
+#: 87/mv-translations/views/mv-translations_shortcode.php:117
+#: 88/mv-translations/views/mv-translations_shortcode.php:117
+#: 89/mv-translations/views/mv-translations_shortcode.php:135
+#: 90/mv-translations/views/mv-translations_shortcode.php:136
+#: 91/mv-translations/views/mv-translations_shortcode.php:136
+#: 92/mv-translations/views/mv-translations_shortcode.php:136
+#: 93/mv-translations/views/mv-translations_shortcode.php:136
+#: 94/mv-translations/views/mv-translations_shortcode.php:136
+#: 95/mv-translations/views/mv-translations_shortcode.php:136
+#: 96/mv-translations/views/mv-translations_shortcode.php:136
+#: 97/mv-translations/views/mv-translations_shortcode.php:136
+#: 98/mv-translations/views/mv-translations_shortcode.php:136
+#: 99/mv-translations/views/mv-translations_shortcode.php:136
+msgid "Status"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 84/mv-translations/views/mv-translations_shortcode.php:20
+#: 85/mv-translations/views/mv-translations_shortcode.php:20
+#: 86/mv-translations/views/mv-translations_shortcode.php:20
+#: 87/mv-translations/views/mv-translations_shortcode.php:25
+#: 88/mv-translations/views/mv-translations_shortcode.php:25
+#: 89/mv-translations/views/mv-translations_shortcode.php:25
+#: 90/mv-translations/views/mv-translations_shortcode.php:25
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 91/mv-translations/views/mv-translations_shortcode.php:25
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 92/mv-translations/views/mv-translations_shortcode.php:25
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 93/mv-translations/views/mv-translations_shortcode.php:25
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 94/mv-translations/views/mv-translations_shortcode.php:25
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 95/mv-translations/views/mv-translations_shortcode.php:25
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 96/mv-translations/views/mv-translations_shortcode.php:25
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 97/mv-translations/views/mv-translations_shortcode.php:25
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 98/mv-translations/views/mv-translations_shortcode.php:25
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:25
+#: 99/mv-translations/views/mv-translations_shortcode.php:25
+msgid ""
+"Please, enter a title"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 84/mv-translations/views/mv-translations_shortcode.php:25
+#: 85/mv-translations/views/mv-translations_shortcode.php:25
+#: 86/mv-translations/views/mv-translations_shortcode.php:25
+#: 87/mv-translations/views/mv-translations_shortcode.php:30
+#: 88/mv-translations/views/mv-translations_shortcode.php:30
+#: 89/mv-translations/views/mv-translations_shortcode.php:30
+#: 90/mv-translations/views/mv-translations_shortcode.php:30
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 91/mv-translations/views/mv-translations_shortcode.php:30
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 92/mv-translations/views/mv-translations_shortcode.php:30
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 93/mv-translations/views/mv-translations_shortcode.php:30
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 94/mv-translations/views/mv-translations_shortcode.php:30
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 95/mv-translations/views/mv-translations_shortcode.php:30
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 96/mv-translations/views/mv-translations_shortcode.php:30
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 97/mv-translations/views/mv-translations_shortcode.php:30
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 98/mv-translations/views/mv-translations_shortcode.php:30
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:30
+#: 99/mv-translations/views/mv-translations_shortcode.php:30
+msgid ""
+"Please, enter some "
+"content"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 84/mv-translations/views/mv-translations_shortcode.php:30
+#: 85/mv-translations/views/mv-translations_shortcode.php:30
+#: 86/mv-translations/views/mv-translations_shortcode.php:30
+#: 87/mv-translations/views/mv-translations_shortcode.php:35
+#: 88/mv-translations/views/mv-translations_shortcode.php:35
+#: 89/mv-translations/views/mv-translations_shortcode.php:35
+#: 90/mv-translations/views/mv-translations_shortcode.php:35
+#: 91/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 91/mv-translations/views/mv-translations_shortcode.php:35
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 92/mv-translations/views/mv-translations_shortcode.php:35
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 93/mv-translations/views/mv-translations_shortcode.php:35
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 94/mv-translations/views/mv-translations_shortcode.php:35
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 95/mv-translations/views/mv-translations_shortcode.php:35
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 96/mv-translations/views/mv-translations_shortcode.php:35
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 97/mv-translations/views/mv-translations_shortcode.php:35
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 98/mv-translations/views/mv-translations_shortcode.php:35
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:35
+#: 99/mv-translations/views/mv-translations_shortcode.php:35
+msgid ""
+"Please, enter some singer"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:1
+#: 87/mv-translations/functions/functions.php:32
+#: 88/mv-translations/functions/functions.php:73
+#: 89/mv-translations/functions/functions.php:73
+#: 90/mv-translations/functions/functions.php:73
+#: 91/mv-translations/functions/functions.php:73
+#: 92/mv-translations/functions/functions.php:73
+#: 93/mv-translations/functions/functions.php:73
+#: 94/mv-translations/functions/functions.php:73
+#: 95/mv-translations/functions/functions.php:73
+#: 96/mv-translations/functions/functions.php:73
+#: 97/mv-translations/functions/functions.php:73
+#: 98/mv-translations/functions/functions.php:73
+#: 99/mv-translations/functions/functions.php:73
+msgid "Create your account"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:3
+#: 87/mv-translations/functions/functions.php:34
+#: 88/mv-translations/functions/functions.php:75
+#: 89/mv-translations/functions/functions.php:75
+#: 90/mv-translations/functions/functions.php:75
+#: 91/mv-translations/functions/functions.php:75
+#: 92/mv-translations/functions/functions.php:75
+#: 93/mv-translations/functions/functions.php:75
+#: 94/mv-translations/functions/functions.php:75
+#: 95/mv-translations/functions/functions.php:75
+#: 96/mv-translations/functions/functions.php:75
+#: 97/mv-translations/functions/functions.php:75
+#: 98/mv-translations/functions/functions.php:75
+#: 99/mv-translations/functions/functions.php:75
+msgid "Username"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:5
+#: 87/mv-translations/functions/functions.php:36
+#: 88/mv-translations/functions/functions.php:77
+#: 89/mv-translations/functions/functions.php:77
+#: 90/mv-translations/functions/functions.php:77
+#: 91/mv-translations/functions/functions.php:77
+#: 92/mv-translations/functions/functions.php:77
+#: 93/mv-translations/functions/functions.php:77
+#: 94/mv-translations/functions/functions.php:77
+#: 95/mv-translations/functions/functions.php:77
+#: 96/mv-translations/functions/functions.php:77
+#: 97/mv-translations/functions/functions.php:77
+#: 98/mv-translations/functions/functions.php:77
+#: 99/mv-translations/functions/functions.php:77
+msgid "First Name"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:7
+#: 87/mv-translations/functions/functions.php:38
+#: 88/mv-translations/functions/functions.php:79
+#: 89/mv-translations/functions/functions.php:79
+#: 90/mv-translations/functions/functions.php:79
+#: 91/mv-translations/functions/functions.php:79
+#: 92/mv-translations/functions/functions.php:79
+#: 93/mv-translations/functions/functions.php:79
+#: 94/mv-translations/functions/functions.php:79
+#: 95/mv-translations/functions/functions.php:79
+#: 96/mv-translations/functions/functions.php:79
+#: 97/mv-translations/functions/functions.php:79
+#: 98/mv-translations/functions/functions.php:79
+#: 99/mv-translations/functions/functions.php:79
+msgid "Last Name"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:9
+#: 87/mv-translations/functions/functions.php:40
+#: 88/mv-translations/functions/functions.php:81
+#: 89/mv-translations/functions/functions.php:81
+#: 90/mv-translations/functions/functions.php:81
+#: 91/mv-translations/functions/functions.php:81
+#: 92/mv-translations/functions/functions.php:81
+#: 93/mv-translations/functions/functions.php:81
+#: 94/mv-translations/functions/functions.php:81
+#: 95/mv-translations/functions/functions.php:81
+#: 96/mv-translations/functions/functions.php:81
+#: 97/mv-translations/functions/functions.php:81
+#: 98/mv-translations/functions/functions.php:81
+#: 99/mv-translations/functions/functions.php:81
+msgid "Email address"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:11
+#: 87/mv-translations/functions/functions.php:42
+#: 88/mv-translations/functions/functions.php:83
+#: 89/mv-translations/functions/functions.php:83
+#: 90/mv-translations/functions/functions.php:83
+#: 91/mv-translations/functions/functions.php:83
+#: 92/mv-translations/functions/functions.php:83
+#: 93/mv-translations/functions/functions.php:83
+#: 94/mv-translations/functions/functions.php:83
+#: 95/mv-translations/functions/functions.php:83
+#: 96/mv-translations/functions/functions.php:83
+#: 97/mv-translations/functions/functions.php:83
+#: 98/mv-translations/functions/functions.php:83
+#: 99/mv-translations/functions/functions.php:83
+msgid "Password"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:13
+#: 87/mv-translations/functions/functions.php:44
+#: 88/mv-translations/functions/functions.php:85
+#: 89/mv-translations/functions/functions.php:85
+#: 90/mv-translations/functions/functions.php:85
+#: 91/mv-translations/functions/functions.php:85
+#: 92/mv-translations/functions/functions.php:85
+#: 93/mv-translations/functions/functions.php:85
+#: 94/mv-translations/functions/functions.php:85
+#: 95/mv-translations/functions/functions.php:85
+#: 96/mv-translations/functions/functions.php:85
+#: 97/mv-translations/functions/functions.php:85
+#: 98/mv-translations/functions/functions.php:85
+#: 99/mv-translations/functions/functions.php:85
+msgid "Sign Up"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 87/initial-code.php:18
+#: 87/mv-translations/functions/functions.php:49
+#: 88/mv-translations/functions/functions.php:90
+#: 89/mv-translations/functions/functions.php:90
+#: 90/mv-translations/functions/functions.php:90
+#: 91/mv-translations/functions/functions.php:90
+#: 92/mv-translations/functions/functions.php:90
+#: 93/mv-translations/functions/functions.php:90
+#: 94/mv-translations/functions/functions.php:90
+#: 95/mv-translations/functions/functions.php:90
+#: 96/mv-translations/functions/functions.php:90
+#: 97/mv-translations/functions/functions.php:90
+#: 98/mv-translations/functions/functions.php:90
+#: 99/mv-translations/functions/functions.php:90
+msgid "Or login"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:22
+#: 89/mv-translations/functions/functions.php:22
+#: 90/mv-translations/functions/functions.php:22
+#: 91/mv-translations/functions/functions.php:22
+#: 92/mv-translations/functions/functions.php:22
+#: 93/mv-translations/functions/functions.php:22
+#: 94/mv-translations/functions/functions.php:22
+#: 95/mv-translations/functions/functions.php:22
+#: 96/mv-translations/functions/functions.php:22
+#: 97/mv-translations/functions/functions.php:22
+#: 98/mv-translations/functions/functions.php:22
+#: 99/mv-translations/functions/functions.php:22
+msgid ""
+"Required form field is "
+"missing"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:26
+#: 89/mv-translations/functions/functions.php:26
+#: 90/mv-translations/functions/functions.php:26
+#: 91/mv-translations/functions/functions.php:26
+#: 92/mv-translations/functions/functions.php:26
+#: 93/mv-translations/functions/functions.php:26
+#: 94/mv-translations/functions/functions.php:26
+#: 95/mv-translations/functions/functions.php:26
+#: 96/mv-translations/functions/functions.php:26
+#: 97/mv-translations/functions/functions.php:26
+#: 98/mv-translations/functions/functions.php:26
+#: 99/mv-translations/functions/functions.php:26
+msgid ""
+"Username too short. At "
+"least 6 characters is "
+"required"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:30
+#: 89/mv-translations/functions/functions.php:30
+#: 90/mv-translations/functions/functions.php:30
+#: 91/mv-translations/functions/functions.php:30
+#: 92/mv-translations/functions/functions.php:30
+#: 93/mv-translations/functions/functions.php:30
+#: 94/mv-translations/functions/functions.php:30
+#: 95/mv-translations/functions/functions.php:30
+#: 96/mv-translations/functions/functions.php:30
+#: 97/mv-translations/functions/functions.php:30
+#: 98/mv-translations/functions/functions.php:30
+#: 99/mv-translations/functions/functions.php:30
+msgid "Invalid credentials"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:34
+#: 89/mv-translations/functions/functions.php:34
+#: 90/mv-translations/functions/functions.php:34
+#: 91/mv-translations/functions/functions.php:34
+#: 92/mv-translations/functions/functions.php:34
+#: 93/mv-translations/functions/functions.php:34
+#: 94/mv-translations/functions/functions.php:34
+#: 95/mv-translations/functions/functions.php:34
+#: 96/mv-translations/functions/functions.php:34
+#: 97/mv-translations/functions/functions.php:34
+#: 98/mv-translations/functions/functions.php:34
+#: 99/mv-translations/functions/functions.php:34
+msgid ""
+"The username you entered "
+"is not valid!"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:38
+#: 89/mv-translations/functions/functions.php:38
+#: 90/mv-translations/functions/functions.php:38
+#: 91/mv-translations/functions/functions.php:38
+#: 92/mv-translations/functions/functions.php:38
+#: 93/mv-translations/functions/functions.php:38
+#: 94/mv-translations/functions/functions.php:38
+#: 95/mv-translations/functions/functions.php:38
+#: 96/mv-translations/functions/functions.php:38
+#: 97/mv-translations/functions/functions.php:38
+#: 98/mv-translations/functions/functions.php:38
+#: 99/mv-translations/functions/functions.php:38
+msgid "Email is not valid"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:42
+#: 89/mv-translations/functions/functions.php:42
+#: 90/mv-translations/functions/functions.php:42
+#: 91/mv-translations/functions/functions.php:42
+#: 92/mv-translations/functions/functions.php:42
+#: 93/mv-translations/functions/functions.php:42
+#: 94/mv-translations/functions/functions.php:42
+#: 95/mv-translations/functions/functions.php:42
+#: 96/mv-translations/functions/functions.php:42
+#: 97/mv-translations/functions/functions.php:42
+#: 98/mv-translations/functions/functions.php:42
+#: 99/mv-translations/functions/functions.php:42
+msgid ""
+"Email already exists"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 88/mv-translations/functions/functions.php:46
+#: 89/mv-translations/functions/functions.php:46
+#: 90/mv-translations/functions/functions.php:46
+#: 91/mv-translations/functions/functions.php:46
+#: 92/mv-translations/functions/functions.php:46
+#: 93/mv-translations/functions/functions.php:46
+#: 94/mv-translations/functions/functions.php:46
+#: 95/mv-translations/functions/functions.php:46
+#: 96/mv-translations/functions/functions.php:46
+#: 97/mv-translations/functions/functions.php:46
+#: 98/mv-translations/functions/functions.php:46
+#: 99/mv-translations/functions/functions.php:46
+msgid ""
+"Password length must be "
+"greater than 5"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 90/mv-translations/views/mv-translations_shortcode.php:146
+#: 91/mv-translations/views/mv-translations_shortcode.php:146
+#: 92/mv-translations/views/mv-translations_shortcode.php:146
+#: 93/mv-translations/views/mv-translations_shortcode.php:146
+#: 94/mv-translations/views/mv-translations_shortcode.php:146
+#: 95/mv-translations/views/mv-translations_shortcode.php:146
+#: 96/mv-translations/views/mv-translations_shortcode.php:146
+#: 97/mv-translations/views/mv-translations_shortcode.php:146
+#: 98/mv-translations/views/mv-translations_shortcode.php:146
+#: 99/mv-translations/views/mv-translations_shortcode.php:146
+msgid "Edit"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 90/mv-translations/views/mv-translations_shortcode.php:147
+#: 91/mv-translations/views/mv-translations_shortcode.php:147
+#: 92/mv-translations/views/mv-translations_shortcode.php:147
+#: 93/mv-translations/views/mv-translations_shortcode.php:147
+#: 94/mv-translations/views/mv-translations_shortcode.php:147
+#: 95/mv-translations/views/mv-translations_shortcode.php:147
+#: 96/mv-translations/views/mv-translations_shortcode.php:147
+#: 97/mv-translations/views/mv-translations_shortcode.php:147
+#: 98/mv-translations/views/mv-translations_shortcode.php:147
+#: 99/mv-translations/views/mv-translations_shortcode.php:147
+msgid "Delete"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 90/mv-translations/views/mv-translations_shortcode.php:148
+#: 91/mv-translations/views/mv-translations_shortcode.php:148
+#: 92/mv-translations/views/mv-translations_shortcode.php:148
+#: 93/mv-translations/views/mv-translations_shortcode.php:148
+#: 94/mv-translations/views/mv-translations_shortcode.php:148
+#: 95/mv-translations/views/mv-translations_shortcode.php:148
+#: 96/mv-translations/views/mv-translations_shortcode.php:148
+#: 97/mv-translations/views/mv-translations_shortcode.php:148
+#: 98/mv-translations/views/mv-translations_shortcode.php:148
+#: 99/mv-translations/views/mv-translations_shortcode.php:148
+msgid "Published"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 90/mv-translations/views/mv-translations_shortcode.php:148
+#: 91/mv-translations/views/mv-translations_shortcode.php:148
+#: 92/mv-translations/views/mv-translations_shortcode.php:148
+#: 93/mv-translations/views/mv-translations_shortcode.php:148
+#: 94/mv-translations/views/mv-translations_shortcode.php:148
+#: 95/mv-translations/views/mv-translations_shortcode.php:148
+#: 96/mv-translations/views/mv-translations_shortcode.php:148
+#: 97/mv-translations/views/mv-translations_shortcode.php:148
+#: 98/mv-translations/views/mv-translations_shortcode.php:148
+#: 99/mv-translations/views/mv-translations_shortcode.php:148
+msgid "Pending"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:76
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:76
+msgid "Edit translation"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 92/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 93/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 94/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 95/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 96/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 97/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 98/mv-translations/views/mv-translations_edit_shortcode.php:119
+#: 99/mv-translations/views/mv-translations_edit_shortcode.php:119
+msgid ""
+"Back to translations list"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 93/initial-code.php:21
+#: 93/mv-translations/views/templates/single-mv-translations.php:33
+#: 94/mv-translations/views/templates/single-mv-translations.php:38
+#: 95/mv-translations/views/templates/single-mv-translations.php:37
+#: 96/mv-translations/views/templates/single-mv-translations.php:37
+#: 97/mv-translations/views/templates/single-mv-translations.php:37
+#: 98/mv-translations/views/templates/single-mv-translations.php:37
+#: 99/functions.php:54
+msgid "Author"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 93/initial-code.php:24
+#: 93/mv-translations/views/templates/single-mv-translations.php:36
+#: 94/mv-translations/views/templates/single-mv-translations.php:41
+#: 95/mv-translations/views/templates/single-mv-translations.php:40
+#: 96/mv-translations/views/templates/single-mv-translations.php:40
+#: 97/mv-translations/views/templates/single-mv-translations.php:40
+#: 98/mv-translations/views/templates/single-mv-translations.php:40
+#: 99/functions.php:57
+msgid "Published on"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:269
+#: 99/functions.php:316
+msgid ""
+"Desktop Horizontal Menu"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:270
+#: 99/functions.php:317
+msgid ""
+"Desktop Expanded Menu"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:271
+#: 99/functions.php:318
+msgid "Mobile Menu"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:272
+#: 99/functions.php:319
+msgid "Footer Menu"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:273
+#: 99/functions.php:320
+msgid "Social Menu"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:351
+#: 99/functions.php:398
+msgid "Skip to the content"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:376
+#: 99/functions.php:423
+msgid "Footer #1"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:378
+#: 99/functions.php:425
+msgid ""
+"Widgets in this area "
+"will be displayed in the "
+"first column in the "
+"footer."
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:388
+#: 99/functions.php:435
+msgid "Footer #2"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:390
+#: 99/functions.php:437
+msgid ""
+"Widgets in this area "
+"will be displayed in the "
+"second column in the "
+"footer."
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:495
+#: 99/functions.php:542
+msgid "Accent Color"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:500
+#: 99/functions.php:547
+msgctxt "color"
+msgid "Primary"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:505
+#: 99/functions.php:552
+msgctxt "color"
+msgid "Secondary"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:510
+#: 99/functions.php:557
+msgid "Subtle Background"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:523
+#: 99/functions.php:570
+msgid "Background Color"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:538
+#: 99/functions.php:585
+msgctxt ""
+"Name of the small font "
+"size in the block editor"
+msgid "Small"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:539
+#: 99/functions.php:586
+msgctxt ""
+"Short name of the small "
+"font size in the block "
+"editor."
+msgid "S"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:544
+#: 99/functions.php:591
+msgctxt ""
+"Name of the regular font "
+"size in the block editor"
+msgid "Regular"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:545
+#: 99/functions.php:592
+msgctxt ""
+"Short name of the "
+"regular font size in the "
+"block editor."
+msgid "M"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:550
+#: 99/functions.php:597
+msgctxt ""
+"Name of the large font "
+"size in the block editor"
+msgid "Large"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:551
+#: 99/functions.php:598
+msgctxt ""
+"Short name of the large "
+"font size in the block "
+"editor."
+msgid "L"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:556
+#: 99/functions.php:603
+msgctxt ""
+"Name of the larger font "
+"size in the block editor"
+msgid "Larger"
+msgstr ""
+
+#: Codes and other
+#: materials/Lesson
+#: 98/functions.php:557
+#: 99/functions.php:604
+msgctxt ""
+"Short name of the larger "
+"font size in the block "
+"editor."
+msgid "XL"
+msgstr ""
